@@ -1,5 +1,5 @@
 ## Description
-This project is to run three test cases as outlined in the file.
+This project is to run two test cases as outlined in the file.
 
 ```
 Application URL: https://parabank.parasoft.com/ 
