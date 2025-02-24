@@ -1,0 +1,8 @@
+[32mINFO    [0m test_logger:para_bank_test.py:108 Navigate to About Us Page
+[32mINFO    [0m test_logger:para_bank_test.py:111 Navigating to About Us Page is Successful
+[32mINFO    [0m test_logger:para_bank_test.py:113 Navigate to Services Page
+[32mINFO    [0m test_logger:para_bank_test.py:116 Navigating to Services Page is Successful
+[32mINFO    [0m test_logger:para_bank_test.py:118 Navigate to Products Page
+[32mINFO    [0m test_logger:para_bank_test.py:123 Navigate to Solutions Page
+[32mINFO    [0m test_logger:para_bank_test.py:128 Navigate to Admin Page
+[32mINFO    [0m test_logger:para_bank_test.py:131 Navigating to Admin Page is Successful

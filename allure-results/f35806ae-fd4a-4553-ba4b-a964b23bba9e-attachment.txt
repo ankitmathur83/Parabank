@@ -1,0 +1,17 @@
+[32mINFO    [0m test_logger:para_bank_test.py:34 Test: test_account_service_flow started
+[32mINFO    [0m test_logger:para_bank_test.py:36 Opening the Home Page
+[32mINFO    [0m test_logger:para_bank_test.py:39 Navigating to register page
+[32mINFO    [0m test_logger:para_bank_test.py:42 Successfully Navigated to Register Page
+[32mINFO    [0m test_logger:para_bank_test.py:44 Registering a User
+[32mINFO    [0m test_logger:para_bank_test.py:47 Successfully registered a User and auto-Logged In
+[32mINFO    [0m test_logger:para_bank_test.py:49 Logging out user
+[32mINFO    [0m test_logger:para_bank_test.py:52 Logging back user again
+[32mINFO    [0m test_logger:para_bank_test.py:57 Successfully opened a Savings Account
+[32mINFO    [0m test_logger:para_bank_test.py:58 Account ID is: 18450
+[32mINFO    [0m test_logger:para_bank_test.py:60 Verifying Account Balance
+[32mINFO    [0m test_logger:para_bank_test.py:62 Account Balance is: $100.00
+[32mINFO    [0m test_logger:para_bank_test.py:67 Transferring Funds from newly created account.
+[32mINFO    [0m test_logger:para_bank_test.py:73 Transferring is completed successfully
+[32mINFO    [0m test_logger:para_bank_test.py:75 Paying the bill with newly created account
+[32mINFO    [0m test_logger:para_bank_test.py:92 Bill Payment is successful.
+[32mINFO    [0m test_logger:para_bank_test.py:94 Checking account transaction by amount using API

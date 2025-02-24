@@ -1,0 +1,75 @@
+2025-02-24 16:05:59,052 - INFO - Test: test_account_service_flow started
+2025-02-24 16:05:59,053 - INFO - Opening the Home Page
+2025-02-24 16:06:02,092 - INFO - Navigating to register page
+2025-02-24 16:06:02,785 - INFO - Successfully Navigated to Register Page
+2025-02-24 16:06:02,785 - INFO - Registering a User
+2025-02-24 16:06:05,829 - INFO - Successfully registered a User and auto-Logged In
+2025-02-24 16:06:05,829 - INFO - Logging out user
+2025-02-24 16:06:06,685 - INFO - Logging back user again
+2025-02-24 16:06:12,123 - INFO - Successfully opened a Savings Account
+2025-02-24 16:06:12,123 - INFO - Account ID is: 18450
+2025-02-24 16:06:12,124 - INFO - Verifying Account Balance
+2025-02-24 16:06:15,622 - INFO - Account Balance is: $100.00
+2025-02-24 16:06:15,622 - INFO - Transferring Funds from newly created account.
+2025-02-24 16:06:17,274 - INFO - Transferring is completed successfully
+2025-02-24 16:06:17,274 - INFO - Paying the bill with newly created account
+2025-02-24 16:06:18,123 - INFO - Bill Payment is successful.
+2025-02-24 16:06:21,127 - INFO - Checking account transaction by amount using API
+2025-02-24 16:06:24,519 - INFO - Navigate to About Us Page
+2025-02-24 16:06:25,174 - INFO - Navigating to About Us Page is Successful
+2025-02-24 16:06:25,174 - INFO - Navigate to Services Page
+2025-02-24 16:06:25,994 - INFO - Navigating to Services Page is Successful
+2025-02-24 16:06:25,994 - INFO - Navigate to Products Page
+2025-02-24 16:06:30,169 - INFO - Navigate to Solutions Page
+2025-02-24 16:06:31,984 - INFO - Navigate to Admin Page
+2025-02-24 16:06:32,612 - INFO - Navigating to Admin Page is Successful
+2025-02-24 16:06:38,961 - INFO - Test: test_account_service_flow started
+2025-02-24 16:06:38,962 - INFO - Opening the Home Page
+2025-02-24 16:06:41,292 - INFO - Navigating to register page
+2025-02-24 16:06:41,946 - INFO - Successfully Navigated to Register Page
+2025-02-24 16:06:41,947 - INFO - Registering a User
+2025-02-24 16:06:44,807 - INFO - Successfully registered a User and auto-Logged In
+2025-02-24 16:06:44,807 - INFO - Logging out user
+2025-02-24 16:06:45,704 - INFO - Logging back user again
+2025-02-24 16:06:51,089 - INFO - Successfully opened a Savings Account
+2025-02-24 16:06:51,089 - INFO - Account ID is: 18672
+2025-02-24 16:06:51,090 - INFO - Verifying Account Balance
+2025-02-24 16:06:54,528 - INFO - Account Balance is: $100.00
+2025-02-24 16:06:54,528 - INFO - Transferring Funds from newly created account.
+2025-02-24 16:06:56,279 - INFO - Transferring is completed successfully
+2025-02-24 16:06:56,279 - INFO - Paying the bill with newly created account
+2025-02-24 16:06:57,123 - INFO - Bill Payment is successful.
+2025-02-24 16:07:00,124 - INFO - Checking account transaction by amount using API
+2025-02-24 16:07:02,663 - INFO - Navigate to About Us Page
+2025-02-24 16:07:03,315 - INFO - Navigating to About Us Page is Successful
+2025-02-24 16:07:03,315 - INFO - Navigate to Services Page
+2025-02-24 16:07:03,720 - INFO - Navigating to Services Page is Successful
+2025-02-24 16:07:03,720 - INFO - Navigate to Products Page
+2025-02-24 16:07:07,125 - INFO - Navigate to Solutions Page
+2025-02-24 16:07:08,303 - INFO - Navigate to Admin Page
+2025-02-24 16:07:08,915 - INFO - Navigating to Admin Page is Successful
+2025-02-24 16:07:12,850 - INFO - Test: test_account_service_flow started
+2025-02-24 16:07:12,851 - INFO - Opening the Home Page
+2025-02-24 16:07:14,594 - INFO - Navigating to register page
+2025-02-24 16:07:15,104 - INFO - Successfully Navigated to Register Page
+2025-02-24 16:07:15,104 - INFO - Registering a User
+2025-02-24 16:07:17,834 - INFO - Successfully registered a User and auto-Logged In
+2025-02-24 16:07:17,834 - INFO - Logging out user
+2025-02-24 16:07:18,566 - INFO - Logging back user again
+2025-02-24 16:07:24,390 - INFO - Successfully opened a Savings Account
+2025-02-24 16:07:24,391 - INFO - Account ID is: 19005
+2025-02-24 16:07:24,391 - INFO - Verifying Account Balance
+2025-02-24 16:07:27,795 - INFO - Account Balance is: $100.00
+2025-02-24 16:07:27,796 - INFO - Transferring Funds from newly created account.
+2025-02-24 16:07:29,455 - INFO - Transferring is completed successfully
+2025-02-24 16:07:29,455 - INFO - Paying the bill with newly created account
+2025-02-24 16:07:30,308 - INFO - Bill Payment is successful.
+2025-02-24 16:07:33,309 - INFO - Checking account transaction by amount using API
+2025-02-24 16:07:36,224 - INFO - Navigate to About Us Page
+2025-02-24 16:07:36,698 - INFO - Navigating to About Us Page is Successful
+2025-02-24 16:07:36,699 - INFO - Navigate to Services Page
+2025-02-24 16:07:37,073 - INFO - Navigating to Services Page is Successful
+2025-02-24 16:07:37,074 - INFO - Navigate to Products Page
+2025-02-24 16:07:38,654 - INFO - Navigate to Solutions Page
+2025-02-24 16:07:40,413 - INFO - Navigate to Admin Page
+2025-02-24 16:07:40,910 - INFO - Navigating to Admin Page is Successful
