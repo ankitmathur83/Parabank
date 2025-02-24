@@ -10,9 +10,9 @@ Test case 1: UI Test scenarios:
 3. Login to the application with the user created in step 2.
 4. Create a Savings account from “Open New Account Page” and capture the account number.
 5. Validate if Accounts overview page is displaying the balance details as expected.
-6. Transfer funds from account created in step 5 to another account.
-7. Pay the bill with account created in step 5.
-8. Through API call using find transaction API call by amount for the payment done in step 7. (this covers API scenario as well)
+6. Transfer funds from account created in step 4 to another account.
+7. Pay the bill with account created in step 4.
+8. Through API call using find transaction API call by amount for the payment done in step 7. (this covers API scenario as well. So no new test case was created)
 
 
 Test case 2: Verify if the Global navigation menu in home page is working as expected.
