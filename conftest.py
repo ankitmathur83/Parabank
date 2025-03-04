@@ -26,7 +26,7 @@ def setup_page(browser):
 @pytest.fixture(scope="session")
 def load_config():
     config = configparser.ConfigParser()
-    config.read('config.ini')  # Make sure the config file is in the correct path
+    config.read('config.ini')
     return config
 
 @pytest.fixture(scope="function",autouse=True)
